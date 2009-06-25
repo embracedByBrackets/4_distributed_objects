@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the '4_distributed_objects' target in the '4_distributed_objects' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
